@@ -111,10 +111,10 @@ wastex-ai/
 
 | Severity | Color  |
 |----------|--------|
-| Mild     | Green  |
-| Moderate | Yellow |
-| Severe   | Orange |
-| Critical | Red    |
+| Mild     | 🟢 Green  |
+| Moderate | 🟡 Yellow |
+| Severe   | 🟠 Orange |
+| Critical | 🔴 Red    |
 
 ---
 
